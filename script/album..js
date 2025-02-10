@@ -36,14 +36,12 @@ new Vue({
           img1: "image/foto2.jpeg",
           img2: "image/gambar.jpeg",
           img3: "image/foto 3.jpeg",
-          title: "ADD NEW TEXT",
           isOpen: false,
         },
         {
           img1: "image/foto7.jpeg",
           img2: "image/foto8.jpeg",
           img3: "image/foto9.jpeg",
-          title: "ADD NEW TEXT",
           isOpen: false,  
         }
       ],
